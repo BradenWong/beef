@@ -1,0 +1,28 @@
+[
+  {"question": "The cigarette lighter was invented before the match.",
+    "answer": true
+  },
+  {
+    "question" : "A \"jiffy\" is an actual unit of time: 1/100th of a second.",
+    "answer" : true},
+  {
+    "question" : "Poison Ivy was introduced to comics in 1967",
+    "answer" : false
+  },
+  {
+    "question" : "According to Genesis 1:20-22, the chicken came before the egg.",
+    "answer" : true
+  },
+  {
+    "question" : "Mailmen in Russia now carry revolvers",
+    "answer": true
+  },
+  {
+    "question" : "Beat eat beet. Bear Beets Battlestar Galactica",
+    "answer" : false
+  }
+
+
+
+
+]
